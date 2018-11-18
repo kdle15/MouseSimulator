@@ -1,7 +1,7 @@
 # MouseSimulator
 SUMMER PROJECT
 
-Introduction:
+Introduction: /n
 1/ One among many fields of Human – computer interaction (HCI) projects aims at reducing frustration 
 and improving the ability to manipulate the cursor when interacting with a computer that is not optimal for people with motor impairments.
 2/ However, research on this field seems to be slow since they are required to conduct extensive testing and also involve human participation.
